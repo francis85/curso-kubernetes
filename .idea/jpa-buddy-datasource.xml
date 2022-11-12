@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="49360a9b-7c4d-4864-914a-e1077211112a" name="msvc_usuarios" url="jdbc:mysql://localhost/msvc_usuarios?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="6f5ec472-0df9-4feb-bb68-62dd644beec4" name="msvc_cursos" url="jdbc:mysql://localhost/msvc_cursos?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
